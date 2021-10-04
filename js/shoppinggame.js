@@ -11,6 +11,12 @@ const player = {
 	getCurrentScore: function () {
 		return score;
 	},
+	addPoints: function () {
+		score += points;
+	},
+	deductPoints: function () {
+		score -= points;
+	},
 };
 // Define the Product class - write the Constructor function for Product class here
 
