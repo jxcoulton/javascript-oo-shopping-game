@@ -8,6 +8,9 @@ const player = {
 	name,
 	items,
 	score,
+	getCurrentScore: function () {
+		return score;
+	},
 };
 // Define the Product class - write the Constructor function for Product class here
 
