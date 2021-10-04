@@ -5,7 +5,6 @@ let gameComplete = false;
 const player = {
 	name,
 	items,
-	score,
 };
 // Define the Product class - write the Constructor function for Product class here
 
