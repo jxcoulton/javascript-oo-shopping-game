@@ -2,10 +2,7 @@ let gameComplete = false;
 // Define the three constants here
 
 // Define the player object here
-const player = {
-	name,
-	items,
-};
+const player = {};
 // Define the Product class - write the Constructor function for Product class here
 
 // Complete the dateDiff function
